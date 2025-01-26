@@ -2,6 +2,8 @@
 
 #### This app lets you view different movies based on your search requests and also generates the top 10 trending movies list dynamically
 
+Deployed link : [Movies Application](movies-application-inky.vercel.app)
+
 - `This app is built using Javascript and React framework`
 - `Database used : Appwrite`
 
